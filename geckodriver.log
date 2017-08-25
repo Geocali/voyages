@@ -358,3 +358,314 @@ JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, 
 JavaScript error: https://secure.analytics.voyages-sncf.com/prod/2.0/dialogue/vsca.js?cZxkoW3GX4e3dResp, line 59: TypeError: window.rsProductHoraire[window.rsProductPosition[x]] is undefined
 JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1502866421, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
 1503339861747	Marionette	INFO	New connections will no longer be accepted
+1503686435812	geckodriver	INFO	Listening on 127.0.0.1:51449
+1503686437922	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503686438164	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503686439733	Marionette	INFO	Listening on port 51461
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503686439988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_9d45f4991900fe702838d72463098c3b.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 584: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 584: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2010: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: chrome://mozapps/content/extensions/extensions.js, line 792: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIControllers.removeController]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503687807891	Marionette	INFO	Ceased listening
+Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_9d45f4991900fe702838d72463098c3b.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503687808979	Marionette	INFO	Ceased listening
+1503687843330	geckodriver	INFO	Listening on 127.0.0.1:52246
+1503687845405	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503687845862	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503687847421	Marionette	INFO	Listening on port 52252
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503687848555	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503687855218	Marionette	INFO	Ceased listening
+1503687944840	geckodriver	INFO	Listening on 127.0.0.1:52262
+1503687946917	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503687947116	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503687948691	Marionette	INFO	Listening on port 52268
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503687948942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503688078102	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503688078313	Marionette	INFO	Ceased listening
+@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503688019497	Marionette	INFO	Listening on port 52306
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503688019862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503688082315	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1503688097113	geckodriver	INFO	Listening on 127.0.0.1:52356
+1503688099194	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503688099398	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503688100961	Marionette	INFO	Listening on port 52362
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503688101222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503688222424	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503688222680	Marionette	INFO	Ceased listening
+1503688439657	geckodriver	INFO	Listening on 127.0.0.1:52585
+1503688441745	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503688441955	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503688443555	Marionette	INFO	Listening on port 52591
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503688443780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503688523321	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript error: https://www.voyages-sncf.com/sites/default/files/frameworks/dydu/current/helpbox/assembly.min.js?t=20170411, line 2: TypeError: window.location is null
+1503688646132	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503688646439	Marionette	INFO	Ceased listening
+1503688779385	geckodriver	INFO	Listening on 127.0.0.1:52726
+1503688781476	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503688781681	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503688783234	Marionette	INFO	Listening on port 52734
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503688783496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503688801428	Marionette	INFO	Ceased listening
+1503688809215	geckodriver	INFO	Listening on 127.0.0.1:52750
+1503688811263	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503688811470	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503688813023	Marionette	INFO	Listening on port 52756
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503688813282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503688892846	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503688971767	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503689039026	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: https://www.voyages-sncf.com/billet-train?PASSENGER_1_CARD_BIRTH_DATE=&%20%20%20%20%20%20%20%20%20%20%20%20_AGENCY=VSC&%20%20%20%20%20%20%20%20%20%20%20%20DESTINATION_CITY_CHECK=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_2_CARD_NUMBER=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_1FID_NUM_BEGIN=&%20%20%20%20%20%20%20%20%20%20%20%20OUTWARD_DATE=21%2F09%2F2017&%20%20%20%20%20%20%20%20%20%20%20%20TRAVEL_TYPE=AR&ORIGIN_CITY=Paris+%28Toutes+gares+intramuros%29&%20%20%20%20%20%20%20%20%20%20%20%20OUTWARD_SCHEDULE_TYPE=DEPARTURE_FROM&%20%20%20%20%20%20%20%20%20%20%20%20_LANG=fr&PASSENGER_2_FID_PROG=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_1_CARD=WEEKE&%20%20%20%20%20%20%20%20%20%20%20%20ORIGIN_CITY_RR_CODE=&%20%20%20%20%20%20%20%20%20%20%20%20INWARD_TIME=&%20%20%20%20%20%20%20%20%20%20%20%20ORIGIN_CITY_CHECK=&%20%20%20%20%20%20%20%20%20%20%20%20CODE_PROMO_2=&%20%20%20%20%20%20%20%20%20%20%20%20INWARD_DATE=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_2_CARD=NONE&%20%20%20%20%20%20%20%20%20%20%20%20DESTINATION_CITY=Marseille&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_1=ADULT&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_2=ADULT&%20%20%20%20%20%20%20%20%20%20%20%20COMFORT_CLASS=2&%20%20%20%20%20%20%20%20%20%20%20%20OUTWARD_TIME=17&%20%20%20%20%20%20%20%20%20%20%20%20DISTRIBUTED_COUNTRY=FR&%20%20%20%20%20%20%20%20%20%20%20%20DESTINATION_CITY_RR_CODE=&%20%20%20%20%20%20%20%20%20%20%20%20SOURCE=VSD&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_1_CARD_NUMBER=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_1_FID_PROG=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_2FID_NUM_BEGIN=&%20%20%20%20%20%20%20%20%20%20%20%20CODE_PROMO_1=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_2_CARD_BIRTH_DATE=, line 100: ReferenceError: jQuery is not defined
+JavaScript error: https://www.voyages-sncf.com/billet-train?PASSENGER_1_CARD_BIRTH_DATE=&%20%20%20%20%20%20%20%20%20%20%20%20_AGENCY=VSC&%20%20%20%20%20%20%20%20%20%20%20%20DESTINATION_CITY_CHECK=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_2_CARD_NUMBER=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_1FID_NUM_BEGIN=&%20%20%20%20%20%20%20%20%20%20%20%20OUTWARD_DATE=21%2F09%2F2017&%20%20%20%20%20%20%20%20%20%20%20%20TRAVEL_TYPE=AR&ORIGIN_CITY=Paris+%28Toutes+gares+intramuros%29&%20%20%20%20%20%20%20%20%20%20%20%20OUTWARD_SCHEDULE_TYPE=DEPARTURE_FROM&%20%20%20%20%20%20%20%20%20%20%20%20_LANG=fr&PASSENGER_2_FID_PROG=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_1_CARD=WEEKE&%20%20%20%20%20%20%20%20%20%20%20%20ORIGIN_CITY_RR_CODE=&%20%20%20%20%20%20%20%20%20%20%20%20INWARD_TIME=&%20%20%20%20%20%20%20%20%20%20%20%20ORIGIN_CITY_CHECK=&%20%20%20%20%20%20%20%20%20%20%20%20CODE_PROMO_2=&%20%20%20%20%20%20%20%20%20%20%20%20INWARD_DATE=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_2_CARD=NONE&%20%20%20%20%20%20%20%20%20%20%20%20DESTINATION_CITY=Marseille&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_1=ADULT&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_2=ADULT&%20%20%20%20%20%20%20%20%20%20%20%20COMFORT_CLASS=2&%20%20%20%20%20%20%20%20%20%20%20%20OUTWARD_TIME=17&%20%20%20%20%20%20%20%20%20%20%20%20DISTRIBUTED_COUNTRY=FR&%20%20%20%20%20%20%20%20%20%20%20%20DESTINATION_CITY_RR_CODE=&%20%20%20%20%20%20%20%20%20%20%20%20SOURCE=VSD&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_1_CARD_NUMBER=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_1_FID_PROG=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_2FID_NUM_BEGIN=&%20%20%20%20%20%20%20%20%20%20%20%20CODE_PROMO_1=&%20%20%20%20%20%20%20%20%20%20%20%20PASSENGER_2_CARD_BIRTH_DATE=, line 1: ReferenceError: lzld is not defined
+1503689140843	Marionette	INFO	Ceased listening
+1503689661457	geckodriver	INFO	Listening on 127.0.0.1:53117
+1503689663504	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503689663721	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503689665346	Marionette	INFO	Listening on port 53123
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503689665527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503689887136	Marionette	INFO	Ceased listening
+1503689892015	geckodriver	INFO	Listening on 127.0.0.1:53340
+1503689894068	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503689894266	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503689895842	Marionette	INFO	Listening on port 53346
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503689896126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503690758150	Marionette	INFO	Ceased listening
+R_NOT_INITIALIZED: AddonManager is not initialized
+1503690377685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503690759142	Marionette	INFO	Ceased listening
+2 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690472259	Marionette	INFO	Listening on port 53727
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690472473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503690760202	Marionette	INFO	Ceased listening
+dules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690524854	Marionette	INFO	Listening on port 53822
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690524995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_9d45f4991900fe702838d72463098c3b.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503690761155	Marionette	INFO	Ceased listening
+d: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690600193	Marionette	INFO	Listening on port 53983
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690600774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503690762526	Marionette	INFO	Ceased listening
+d: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690633527	Marionette	INFO	Listening on port 54084
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690634596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_9d45f4991900fe702838d72463098c3b.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503690763310	Marionette	INFO	Ceased listening
+d: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690692899	Marionette	INFO	Listening on port 54238
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690693970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_9d45f4991900fe702838d72463098c3b.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+1503690764226	Marionette	INFO	Ceased listening
+1503690779302	geckodriver	INFO	Listening on 127.0.0.1:54401
+1503690781383	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503690781763	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690783324	Marionette	INFO	Listening on port 54407
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690783479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_9d45f4991900fe702838d72463098c3b.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503691117724	Marionette	INFO	Ceased listening
+dules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690868896	Marionette	INFO	Listening on port 54599
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503690869030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_9d45f4991900fe702838d72463098c3b.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1503691118865	Marionette	INFO	Ceased listening
+d: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503691007505	Marionette	INFO	Listening on port 54750
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1503691008048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_0098fb1444e611eb96c4db0eb18278ab.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://www.voyages-sncf.com/sites/default/files/js/js_9d45f4991900fe702838d72463098c3b.jsmin.js, line 3: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript warning: https://analytics.voyages-sncf.com/prod/2.0/loisir_V30/vsca.js?YecPxlaHTrUVMEOJZAws, line 95: unreachable code after return statement
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d1m6l9dfulcyw7.cloudfront.net/uxa/2335a9ceefa21.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://halc.iadvize.com/js/dist/visio.js?v=1503582158, line 1: TypeError: 'get peerIdentity' called on an object that does not implement interface RTCPeerConnection.
+1503691114660	Marionette	INFO	Ceased listening
